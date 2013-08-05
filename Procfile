@@ -1,0 +1,1 @@
+web: lein run -m url_shorten.app
